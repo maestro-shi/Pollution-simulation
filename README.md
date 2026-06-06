@@ -27,7 +27,7 @@
 
 ## Запуск
 
-Открой `Nikita_Saveliuk.ipynb` в Jupyter Notebook или Google Colab и запусти ячейки по порядку.
+Открой `Optimization_methods.ipynb` в Jupyter Notebook или Google Colab и запусти ячейки по порядку.
 
 ## Технологии
 
